@@ -1,4 +1,4 @@
-# Valiant Programming Language Specifications
+# Valiant Grammar Specifications (v0.0.1)
 
 Thank you for taking an interest in Valiant!
 This repository explains the language specifications for the Valiant programming language.
